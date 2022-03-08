@@ -72,10 +72,10 @@ if(isset($message)){
 
    <form action="" method="post">
       <h3>login now</h3>
-      <input type="email" name="email" placeholder="enter your email" required class="box">
-      <input type="password" name="password" placeholder="enter your password" required class="box">
-      <input type="submit" name="submit" value="login now" class="btn">
-      <p>don't have an account? <a href="register.php">register now</a></p>
+      <input type="email" name="email" placeholder="Enter your email" required class="box">
+      <input type="password" name="password" placeholder="Enter your password" required class="box">
+      <input type="submit" name="submit" value="Login Now" class="btn">
+      <p>don't have an account? <a href="register.php">Register Now</a></p>
    </form>
 
 </div>

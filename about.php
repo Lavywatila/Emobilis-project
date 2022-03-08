@@ -46,8 +46,10 @@ if(!isset($user_id)){
 
       <div class="content">
          <h3>why choose us?</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet voluptatibus aut hic molestias, reiciendis natus fuga, cumque excepturi veniam ratione iure. Excepturi fugiat placeat iusto facere id officia assumenda temporibus?</p>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia corporis ratione saepe sed adipisci?</p>
+         <p>We pride ourselves in having  an unrivaled range of books that are  rare to find in Nairobi or in the region.
+             We are your go-to bookstore whether you are looking for an interesting novel, or a provocative local memoir. </p>
+         <p>Our trademark bookmarks, which are as old as the shop itself, have stood the test of time.
+             When our customers buy their books they are sure to leave with something more: the prestige bookmark. </p>
          <a href="contact.php" class="btn">contact us</a>
       </div>
 
